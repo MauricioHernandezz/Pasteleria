@@ -1,0 +1,89 @@
+header
+.Logo img{
+    width: 180px;
+    height: 180px;
+	Float: left;
+	margin: top: 30px;
+	margin-left: 10px;
+
+
+
+
+}
+body{
+	margin-top: 20px;
+	margin: 50px;
+	background: #979A9A  ;
+	font-family: Laila light;  
+}
+img{
+    border-radius: 15px;
+    width: 400px;
+    height: 450px;
+}
+
+.contenedor{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+div#general{
+    width: 600px;
+    height: 450px;
+    background-color: #FFE5D9  ;
+    float: right;
+    border-radius: 15px  ;
+}
+div#general h1,h2,h3{
+    font-family: Forte;
+    color: #000000;
+    text-align: center;
+}
+div#general p{
+    font-family: arial;
+    color: #FFA07A;
+    text-align: center;
+
+}
+
+
+
+.menu{
+	
+    list-style: none;
+    background:#FFA07A  ;
+    width: 100%;
+    max-width: 950px;
+    margin: auto;
+    padding: 0px 10%;
+    font-size: 40px;
+    font-family: Titulos Berkshire Swash
+;
+ }
+.menu li a{
+	
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background:#9D8189 ;
+}
+
+h1{
+font-size: 55px;
+font-family: Forte;
+text-align-last: center;
+color: #ffffff;
+float: center;
+}
+
+
+

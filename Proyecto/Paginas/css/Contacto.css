@@ -1,0 +1,53 @@
+header
+.Logo img{
+    width: 180px;
+    height: 180px;
+	Float: left;
+	margin: top: 30px;
+	margin-left: 10px;
+
+
+
+
+}
+body{
+	margin-top: 20px;
+	margin: 50px;
+	background: #979A9A ;
+	font-family: Laila light;
+}
+.menu{
+	
+    list-style: none;
+    background:#FFA07A  ;
+    width: 100%;
+    max-width: 950px;
+    margin: auto;
+    padding: 0px 10%;
+    font-size: 40px;
+    font-family: Titulos Berkshire Swash
+;
+ }
+.menu li a{
+	
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background:#9D8189;
+}
+
+h1{
+font-size: 55px;
+font-family: Berkshire Swash;
+text-align-last: center;
+color: #5F6A6A ;
+}
+
